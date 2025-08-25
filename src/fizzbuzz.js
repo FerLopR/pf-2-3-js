@@ -10,5 +10,4 @@ export function fizzbuzz(){
       console.log("FizzBUzz")
     elseconsole.log(n)
   }
-  return 0;
 }
