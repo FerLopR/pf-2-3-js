@@ -8,7 +8,7 @@ export function fizzbuzz(){
       console.log("Fizz")
     }else if (n % 5 == 0){
     }else { 
-      console.log("BUzz")
+      console.log("Buzz")
     }
     console.log(n)
   }
