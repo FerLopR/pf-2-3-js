@@ -13,3 +13,4 @@ export function fizzbuzz(){
     console.log(n)
   }
 }
+fizzbuzz();
