@@ -7,10 +7,10 @@ export function fizzbuzz(){
     }else if (n % 3 == 0){
       console.log("Fizz")
     }else if (n % 5 == 0){
-    }else { 
       console.log("Buzz")
+    }else { 
+      console.log(n)
     }
-    console.log(n)
   }
 }
 fizzbuzz();
